@@ -1,5 +1,5 @@
 # lib/firmware
-Fix for `W: Possible missing firmware /lib/firmware/amdgpu/`
+Fix for `W: Possible missing firmware /lib/firmware/amdgpu/`<br>
 Fix for `W: Possible missing firmware /lib/firmware/i915/`
 
 ## Steps for fixing
