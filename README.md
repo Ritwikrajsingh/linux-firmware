@@ -2,7 +2,7 @@
 Fix for `W: Possible missing firmware /lib/firmware/amdgpu/`<br>
 Fix for `W: Possible missing firmware /lib/firmware/i915/`
 
-## Steps for fixing
+## Steps to fix
 ### amdgpu
 - Open terminal, copy and paste following commads step by step.
 - **step 1** `git clone "https://github.com/Ritwikrajsingh/linux-firmware.git"`
@@ -16,7 +16,7 @@ Fix for `W: Possible missing firmware /lib/firmware/i915/`
 - **step 3** `cp -a . /lib/firmware/i915/`
 - All done.
 
-Hope your problem is solved now.
+Hope now your problem is solved.
 
 ## Currently availavle firmwares
 ### amdgpu
